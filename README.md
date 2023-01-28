@@ -12,4 +12,4 @@ A compilation of SQL Case Studies created by Danny Ma
 =======
 
 #4. Data_Bank
-
+=======
