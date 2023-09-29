@@ -16,3 +16,6 @@ A compilation of SQL Case Studies created by Danny Ma
 
 #5. Data_Mart
 =======
+
+#6. Clique_Bait
+=======
