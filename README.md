@@ -2,7 +2,7 @@
 
 A compilation of SQL Case Studies created by [Danny Ma](https://www.linkedin.com/in/datawithdanny/) to help develop & stretch logical problem-solving skills.
 
-Below are the case studies (`in order of their completion`):
+Below are the case studies (`in order of completion`):
 
 - **Dannys_Diner**
 - **Pizza_Runner**
