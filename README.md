@@ -1,6 +1,8 @@
 ### Data_With_Danny 
 
-A compilation of SQL Case Studies created by [Danny Ma](https://www.linkedin.com/in/datawithdanny/) to help develop & stretch logical problem-solving skils. Below are the case studies:
+A compilation of SQL Case Studies created by [Danny Ma](https://www.linkedin.com/in/datawithdanny/) to help develop & stretch logical problem-solving skills.
+
+Below are the case studies (`in order of their completion`):
 
 - **Dannys_Diner**
 - **Pizza_Runner**
